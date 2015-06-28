@@ -27,8 +27,6 @@ class Deck
 				@cards << Card.new(rank,suit)
 			end
 		end
-
-		
 	end
 
 	def output
